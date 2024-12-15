@@ -1,0 +1,2 @@
+# Automation
+All things automated
